@@ -3,14 +3,14 @@
 For that project I used that library
 
 ```
-[https://github.com/atlassian/react-beautiful-dnd]
+[Here](https://github.com/atlassian/react-beautiful-dnd)
 ```
 
 But I think react-beautiful-dnd is unmaintained.(since React 18)
 So, the above one is much better
 
 ```
-[https://github.com/react-forked/dnd/blob/main/docs/about/installation.md]
+[Here](https://github.com/react-forked/dnd/blob/main/docs/about/installation.md)
 ```
 
 Or we can simply change
