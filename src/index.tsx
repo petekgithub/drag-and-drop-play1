@@ -8,4 +8,5 @@ const root = ReactDOM.createRoot(
 );
 root.render(<App />);  
 
+// yavrum nerdesin ooo
 
